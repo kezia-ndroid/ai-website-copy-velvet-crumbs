@@ -1,16 +1,12 @@
 # AI Website Copy Generator — Velvet Crumbs Cafe
 ### Prompt Engineering Task | Future Interns 2026
 
----
-
 ## Business Chosen
 
 **Velvet Crumbs Cafe**
 Location: Kottayam, Kerala, India
 Type: Local cafe — coffee, bakes, Kerala breakfast, coworking-friendly
 Target Audience: Students, working professionals, families, and locals
-
----
 
 ## What This Project Does
 
@@ -24,8 +20,6 @@ The copy covers:
 - 4 CTA sections (primary, trust-builder, urgency, footer)
 - Tone-adapted, location-specific language throughout
 
----
-
 ## Tools Used
 
 | Tool     | Purpose                          |
@@ -34,8 +28,6 @@ The copy covers:
 | ChatGPT  | Prompt testing and variations    |
 | Gemini   | Tone adaptation experiments      |
 | GitHub   | Version control and portfolio    |
-
----
 
 ## Repository Structure
 
@@ -50,8 +42,6 @@ ai-website-copy-velvet-crumbs/
 │   ├── homepage_copy.md
 │   ├── services_copy.md
 │   └── cta_sections.md
-
----
 
 ## Prompt Logic
 
@@ -75,7 +65,6 @@ Each prompt is structured around 5 elements:
 This 5-part structure makes every prompt reusable —
 just swap the business name, location, and tone.
 
----
 
 ## Prompt 1 — Homepage Copy
 
@@ -90,8 +79,6 @@ Include:
 Tone: Warm, friendly, local.
 Avoid: Clichés like "best cafe" or "quality service".
 Format: Headline / Sub-headline / Intro paragraph
-
----
 
 ## Prompt 2 — Services Page
 
@@ -108,7 +95,6 @@ For each service:
 
 Tone: Cozy, proud, local. Avoid generic food-blog language.
 
----
 
 ## Prompt 3 — CTA Sections
 
@@ -122,7 +108,6 @@ CTA 3 — Urgency/location: mention proximity to
 
 Tone: Friendly, confident. No pressure tactics.
 
----
 
 ## Prompt 4 — Tone Adapter (Reusable for Any Business)
 
@@ -133,9 +118,6 @@ Adapt tone to: [friendly / professional / confident]
 Target audience: [students / families / professionals]
 Key selling point: [what makes this business unique]
 
-Original copy: [paste your copy here]
-
----
 
 ## Sample Output — Homepage
 
@@ -151,8 +133,6 @@ At Velvet Crumbs, we believe the best conversations
 happen over a good cup. Walk in as a stranger, leave
 as a regular. That's the Velvet Crumbs promise.
 
----
-
 ## How to Reuse for Other Businesses
 
 1. Open any prompt file in /prompts/
@@ -164,15 +144,7 @@ as a regular. That's the Velvet Crumbs promise.
 This system can generate a full website copy set
 for any local business in under 10 minutes.
 
----
-
 ## Author
-
-Created by: [Your Name]
+Created by: Kezia K Babu
 Program: Future Interns — Prompt Engineering Task 2026
-LinkedIn: [your-linkedin-url]
-
----
-
-*This project is portfolio-ready and can be shown
-to real business owners as a paid service offering.*
+LinkedIn: https://www.linkedin.com/in/kezia-k-babu
